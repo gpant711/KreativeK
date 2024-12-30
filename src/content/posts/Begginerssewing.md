@@ -5,6 +5,7 @@ date: '10-01-2024'
 image:
     url: '/begginerssewing.jpg'
     alt: 'Post Thumbnail'
+---
 
 When I started sewing about 10 years ago, it was purely out of necessity. 
 I just wanted to mend a few outfits here and there. I never imagined that what started as a simple fix would grow into a passion that now fills my daily life. From making dresses for myself and my daughter to completing home decor projects, 
