@@ -14,7 +14,7 @@ creation to adding colors, scenes, and emotions.
 Here are a few techniques I use with my kid to enhance drawing and storytelling skills.
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/storyillustration.jpg" alt="Sweing" />
+  <img class="pro-img" width="500px" height="281" src="/storyillustration.jpg" alt="Sewing" />
 </div>
 
 ## Step 1: Brainstorm Your Story
@@ -29,7 +29,7 @@ Where it takes place (setting)
 
 It can be as simple as “A brave cat goes on an adventure to find a hidden treasure” or “A young explorer who discovers a magical forest.”
 
-Tip: A Story Book Kit can be a wonderful way to help kids brainstorm, with prompts and spaces for character sketches.
+Tip: [A Story Book Kit](https://amzn.to/41dZrcn) can be a wonderful way to help kids brainstorm, with prompts and spaces for character sketches.
 
 ## Step 2: Create Your Main Character
 
@@ -43,12 +43,12 @@ Special Features: Do they have any unique features, like big glasses, a superher
 
 ## Helpful YouTube Channels and Websites:
 
-Draw So Cute – This channel offers step-by-step tutorials to create adorable characters, perfect for young illustrators.
+[Draw So Cute](https://www.youtube.com/@DrawSoCute) – This channel offers step-by-step tutorials to create adorable characters, perfect for young illustrators.
 
-Art for Kids Hub – A family-friendly site with easy-to-follow drawing tutorials for kids of all ages.
+[Art for Kids Hub](https://www.artforkidshub.com/) – A family-friendly site with easy-to-follow drawing tutorials for kids of all ages.
  
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/storyillustration2.jpg" alt="Sweing" />
+  <img class="pro-img" width="500px" height="281" src="/storyillustration2.jpg" alt="Sewing" />
 </div>
 ## Step 3: Sketch Basic Scenes
 
@@ -63,7 +63,7 @@ End Scene – How is the story resolved?
 Each scene can start as a simple sketch, with rough outlines of the character and setting. Encourage them to keep it 
 loose and focus on capturing the essence of each scene.
 
-Tip: Use large drawing paper to give kids plenty of room for creativity, and consider a sketchbook to keep all story scenes organized.
+Tip: Use [large drawing paper](https://amzn.to/4hT23Cb) to give kids plenty of room for creativity, and consider a [sketchbook](https://amzn.to/3Z03QN2) to keep all story scenes organized.
 
 ## Step 4: Add Details to Characters and Backgrounds
 
@@ -77,7 +77,7 @@ Props: Give characters important items, like a magic wand, a map, or a treasure 
 
 ## Helpful Resource:
 
-Kids’ Drawing Books with guides on backgrounds and facial expressions can be helpful for detailed elements, 
+[Kids’ Drawing Books](https://amzn.to/4fVBDhu) with guides on backgrounds and facial expressions can be helpful for detailed elements, 
 keeping children inspired as they add depth to their illustrations.
 
 ## Step 5: Color Your Story
@@ -93,7 +93,7 @@ Tip: A Kids’ Watercolor Set or Colored Pencil Set will give them everything th
 
 ## Video Tutorial:
 
-Art for Kids Hub on YouTube provides beginner-friendly tutorials on basic coloring techniques, 
+[Art for Kids Hub](https://www.artforkidshub.com/) on YouTube provides beginner-friendly tutorials on basic coloring techniques, 
 ideal for kids who want to experiment with color.
 
  ## Step 6: Add Speech Bubbles and Story Text
@@ -105,7 +105,7 @@ Write in Pencil First: To avoid mistakes, let them write lightly in pencil first
 
 Add Simple Words or Sentences: This can be as simple as “Oh no!” or “We did it!” to help tell the story.
 
-Tip: For younger kids, parents can help with the writing part or provide a Beginner Lettering Book to 
+Tip: For younger kids, parents can help with the writing part or provide a [Beginner Lettering Book](https://amzn.to/40VRQij) to 
 teach them basic lettering styles.
 
 ## Step 7: Create a Cover for Your Story
@@ -128,11 +128,11 @@ To turn their illustrations into a real book, bind the pages together. You can u
 
 Here are some additional resources that make illustrating stories easy for beginners:
 
-The Artful Parent – This website offers numerous creative activities and drawing tutorials that are perfect for young artists and parents looking for screen-free activities.
+[The Artful Parent](https://artfulparent.com/) – This website offers numerous creative activities and drawing tutorials that are perfect for young artists and parents looking for screen-free activities.
 
-Red Ted Art – A wonderful website filled with craft and drawing activities for kids, including simple steps for creating illustrated storybooks.
+[Red Ted Art](https://www.redtedart.com/) – A wonderful website filled with craft and drawing activities for kids, including simple steps for creating illustrated storybooks.
 
-Art for Kids Hub on YouTube – A family-run channel with tutorials that make drawing fun and accessible for children of all ages.
+[Art for Kids Hub on YouTube](https://www.youtube.com/@ArtforKidsHub) – A family-run channel with tutorials that make drawing fun and accessible for children of all ages.
 Stapling the pages along the side
 
 ## Extra Tips for Parents to Keep Kids Motivated
@@ -141,7 +141,7 @@ Encourage Praise: Recognize their effort, even if the drawings don’t look “p
 
 Set a Drawing Routine: A few minutes each day keeps them consistent and improves their skills.
 
-Use Positive Resources: Educational drawing resources like art supplies kits and character drawing books can be motivational.
+Use Positive Resources: Educational drawing resources like art [supplies kits](https://amzn.to/3B1i7RD) and [character drawing books](hhttps://amzn.to/3B1i7RD) can be motivational.
 
 ## Final Thoughts
 
