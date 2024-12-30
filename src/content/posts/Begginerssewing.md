@@ -11,6 +11,10 @@ When I started sewing about 10 years ago, it was purely out of necessity.
 I just wanted to mend a few outfits here and there. I never imagined that what started as a simple fix would grow into a passion that now fills my daily life. From making dresses for myself and my daughter to completing home decor projects, 
 sewing has become a creative outlet and a fulfilling skill.
 
+<div class="center">
+  <img class="pro-img" width="500px" height="281" src="/begginerssewing.jpg" alt="Sweing" />
+</div>
+
 Choosing the right sewing machine in the beginning was key to building my confidence and skill set. 
 Today, I want to help you find the best sewing machine for beginners in 2024, so you can start your own sewing 
 journey without feeling overwhelmed. With a little practice, who knows? You might find yourself making beautiful
