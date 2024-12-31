@@ -1,5 +1,5 @@
 ---
-title: Types of Paper Available in the Market for Drawing: A Complete Guide for Beginners and Professionals
+title: Types of Paper Available in the Market for Drawing - A Complete Guide for Beginners and Professionals
 author: Kalpna Bora
 date: '11-01-2024'
 image:
